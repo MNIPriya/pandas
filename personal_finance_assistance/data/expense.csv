@@ -1,0 +1,11 @@
+id,date,category,description,amount
+1,2026-06-15,food,food,1000.0
+2,2026-06-15,food,food,1000.0
+3,2026-06-15,travel,bangalore,5000.0
+4,2026-01-03,Food,Breakfast at cafe,250.0
+5,2026-01-03,Food,Breakfast at cafe,250.0
+6,2026-01-08,Shopping,Bought clothes,2500.0
+7,2026-01-10,Entertainment,Movie tickets,600.0
+8,2026-01-12,Food,Dinner at restaurant,850.0
+9,2026-01-15,Bills,Electricity bill payment,1800.0
+10,2026-01-15,Bills,Electricity bill payment,1800.0
